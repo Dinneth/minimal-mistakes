@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "我的博客"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "丁"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -83,10 +83,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "张丁"
+  avatar           : "https://tva2.sinaimg.cn/crop.0.0.180.180.180/6e471a1djw1e8qgp5bmzyj2050050aa8.jpg"
+  bio              : "I am a person."
+  location         : "Xiamen"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
